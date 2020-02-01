@@ -1,2 +1,2 @@
 # personal
-kirilchristov.com - a personal portfolio
+kirilchristov.com - a personal portfolio.
